@@ -134,22 +134,23 @@ img,
 }
 @media screen and (min-width: 1024px) and (max-width: 1600px) {
   .hello {
-    margin-left: 9rem;
+    margin-left: 16rem;
   }
 
   .name {
-    margin-left: 9rem;
+    margin-left: 16rem;
   }
 
   .developer {
-    margin-left: 8rem;
+    margin-left: 11rem;
+    margin-bottom: 15rem;
   }
 
   .wrapper {
-    background-attachment: fixed;
+    height: 40em;
   }
   .project-btn {
-    margin-bottom: 15vh;
+    margin-bottom: 10vh;
   }
 }
 

@@ -123,6 +123,15 @@ img,
   }
 }
 
+/* About us section */
+.About-title {
+  text-align: center;
+  font-size: 40px;
+}
+
+.skill-section h1 {
+  text-align: center;
+}
 @media screen and (min-width: 1024px) and (max-width: 1600px) {
   .hello {
     margin-left: 9rem;

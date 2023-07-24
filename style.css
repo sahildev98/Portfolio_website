@@ -156,6 +156,17 @@ img,
   width: 250px;
   text-align: center;
 }
+
+.frontend-title {
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
+.backend-title {
+  margin-bottom: 20px;
+  margin-top: 10px;
+}
+
 @media screen and (min-width: 1024px) and (max-width: 1600px) {
   .hello {
     margin-left: 16rem;

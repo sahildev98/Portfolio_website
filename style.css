@@ -168,11 +168,21 @@ img,
 .frontend-title {
   margin-bottom: 20px;
   margin-top: 10px;
+  font-size: 35px;
 }
 
 .backend-title {
   margin-bottom: 20px;
   margin-top: 10px;
+  font-size: 35px;
+}
+
+.frontend-section i {
+  padding: 10px;
+}
+
+.backend-section i {
+  padding: 10px;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1600px) {

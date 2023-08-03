@@ -208,3 +208,16 @@ img,
 }
 
 /*Media queries for 2k pixels monitior */
+@media screen and (min-width: 2000px) and (max-width: 4000px) {
+  .wrapper {
+    height: 80em;
+  }
+
+  .project-btn {
+    margin-bottom: 0vh;
+  }
+
+  .developer {
+    margin-bottom: 20rem;
+  }
+}

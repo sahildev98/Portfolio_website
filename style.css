@@ -143,18 +143,26 @@ img,
   background-color: #00d4ff;
   border: 2px solid #00d4ff;
   border-radius: 25px;
-  height: 120px;
+  height: 220px;
   width: 250px;
   text-align: center;
+}
+
+.frontend-section p {
+  font-size: 30px;
 }
 
 .backend-section {
   background-color: #00d4ff;
   border: 2px solid #00d4ff;
   border-radius: 25px;
-  height: 120px;
+  height: 220px;
   width: 250px;
   text-align: center;
+}
+
+.backend-section p {
+  font-size: 30px;
 }
 
 .frontend-title {

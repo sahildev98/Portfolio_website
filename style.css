@@ -198,6 +198,10 @@ img,
   text-align: justify;
 }
 
+.image-of-me {
+  margin-right: 10px;
+}
+
 @media screen and (min-width: 1024px) and (max-width: 1600px) {
   .hello {
     margin-left: 16rem;

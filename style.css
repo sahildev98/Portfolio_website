@@ -204,13 +204,16 @@ img,
 
 /* Contact section */
 
-.contact-section {
-  display: flex;
-  justify-content: center;
-  align-items: center;
+.contact-container {
   background: #00d4ff;
   height: 20vh;
   margin: 0 30vh;
+}
+
+.contact-section {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
 }
 
 .contact-section p {
@@ -218,10 +221,6 @@ img,
 }
 .contact-title {
   text-align: center;
-  background: #00d4ff;
-  /* border-radius: 25px; */
-  height: 20vh;
-  margin: 0 30vh;
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1600px) {

@@ -221,6 +221,10 @@ img,
 .contact-section p {
   margin-top: 65px;
 }
+
+.contact-section i {
+  padding: 10px;
+}
 .contact-title {
   text-align: center;
 }

@@ -214,10 +214,11 @@ img,
   display: flex;
   justify-content: center;
   justify-items: center;
+  gap: 50px;
 }
 
 .contact-section p {
-  margin: 20px;
+  margin-top: 50px;
 }
 .contact-title {
   text-align: center;

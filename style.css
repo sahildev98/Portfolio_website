@@ -206,8 +206,9 @@ img,
 
 .contact-container {
   background: #00d4ff;
-  height: 20vh;
+  height: 25vh;
   margin: 0 30vh;
+  border-radius: 20px;
 }
 
 .contact-section {

@@ -203,6 +203,38 @@ img,
   margin-right: 10px;
 }
 
+/* Contact section */
+
+.contact-container {
+  background: #00d4ff;
+  height: 25vh;
+  margin: 0 30vh;
+  border-radius: 20px;
+}
+
+.contact-section {
+  display: flex;
+  justify-content: center;
+  justify-items: center;
+  gap: 50px;
+}
+
+.contact-section p {
+  margin-top: 65px;
+  font-size: 20px;
+}
+
+.contact-section i {
+  padding: 10px;
+}
+.contact-title {
+  text-align: center;
+}
+
+.contact-title h2 {
+  padding-top: 15px;
+}
+
 @media screen and (min-width: 1024px) and (max-width: 1600px) {
   .hello {
     margin-left: 16rem;

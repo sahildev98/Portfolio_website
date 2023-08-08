@@ -255,6 +255,10 @@ img,
   .project-btn {
     margin-bottom: 10vh;
   }
+
+  .about-intro {
+    font-size: 18px;
+  }
 }
 
 /*Media queries for 2k pixels monitior */

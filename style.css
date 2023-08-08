@@ -259,6 +259,14 @@ img,
   .about-intro {
     font-size: 18px;
   }
+
+  .frontend-section p {
+    font-size: 25px;
+  }
+
+  .backend-section p {
+    font-size: 25px;
+  }
 }
 
 /*Media queries for 2k pixels monitior */

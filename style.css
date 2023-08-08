@@ -264,6 +264,14 @@ img,
     font-size: 25px;
   }
 
+  .frontend-title {
+    font-size: 28px;
+  }
+
+  .backend-title {
+    font-size: 28px;
+  }
+
   .backend-section p {
     font-size: 25px;
   }

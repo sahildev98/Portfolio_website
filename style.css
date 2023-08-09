@@ -94,21 +94,16 @@ h3 {
   position: absolute;
   bottom: 0;
   right: 50%;
-  left: 45%;
+  left: 44%;
   background-color: rgba(0, 212, 255, 1);
   border: none;
   margin-bottom: 25vh;
   font-size: 20px;
-}
-
-.project-btn {
-  border: 2px solid black;
-}
-
-img,
-.project-btn {
-  height: 90px;
-  width: 150px;
+  border: 6px solid black;
+  border-radius: 25px;
+  font-size: 25px;
+  width: 220px;
+  height: 100px;
 }
 
 .project-btn {

@@ -94,6 +94,7 @@ h3 {
   position: absolute;
   bottom: 0;
   right: 50%;
+  left: 45%;
   background-color: rgba(0, 212, 255, 1);
   border: none;
   margin-bottom: 25vh;

@@ -101,6 +101,10 @@ h3 {
   font-size: 20px;
 }
 
+.project-btn {
+  border: 2px solid black;
+}
+
 img,
 .project-btn {
   height: 90px;

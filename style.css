@@ -208,6 +208,12 @@ h3 {
   margin-right: 10px;
 }
 
+/* Projects section */
+.projects-title {
+  text-align: center;
+  font-size: 35px;
+}
+
 /* Contact section */
 
 .contact-container {

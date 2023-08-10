@@ -219,6 +219,13 @@ h3 {
   height:250px;
 }
 
+.projects-container{
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  justify-content: space-around;
+}
+
 /* Contact section */
 
 .contact-container {

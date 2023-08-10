@@ -220,7 +220,14 @@ h3 {
   height:250px;
 }
 
-.projects-container{
+.row1{
+  display: flex;
+  flex-wrap: wrap;
+  margin: auto;
+  justify-content: space-around;
+}
+
+.row2{
   display: flex;
   flex-wrap: wrap;
   margin: auto;

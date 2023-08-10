@@ -214,6 +214,11 @@ h3 {
   font-size: 35px;
 }
 
+.projects-img{
+  width: 450px;
+  height:250px;
+}
+
 /* Contact section */
 
 .contact-container {

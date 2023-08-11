@@ -325,4 +325,12 @@ figcaption{
   .developer {
     margin-bottom: 20rem;
   }
+
+  .frontend-section{
+     height: 250px;
+  }
+
+  .backend-section{
+    height:250px;
+  }
 }

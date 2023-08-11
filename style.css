@@ -126,8 +126,9 @@ h3 {
   }
 }
 
-/* About us section */
+/* About me section */
 .About-title {
+  margin-top:5vh;
   text-align: center;
   font-size: 40px;
 }

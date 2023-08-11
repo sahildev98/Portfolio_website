@@ -4,7 +4,7 @@
 }
 
 body {
-  font-family: "Montserrat", sans-serif;
+  font-family: monospace;
 }
 
 /* Nav section */
@@ -92,12 +92,10 @@ h3 {
 
 .project-btn {
   position: absolute;
-  bottom: 0;
   right: 50%;
   left: 42%;
   background-color: rgba(0, 212, 255, 1);
   border: none;
-  margin-bottom: 25vh;
   font-size: 20px;
   border: 6px solid black;
   border-radius: 25px;

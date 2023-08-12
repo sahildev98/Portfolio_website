@@ -278,19 +278,6 @@ figcaption{
   width: 110px;
 }
 
-.About-title {
-  margin-top:5vh;
-  text-align: center;
-  font-size: 30px;
-}
-
-.about-intro {
-  text-align: right;
-  width: 70%;
-  text-align: justify;
-  font-size: 20px;
-}
-
   .hello {
   margin-left: 3.5rem;
   margin-right:1rem;
@@ -316,6 +303,19 @@ figcaption{
 
 .project-btn .fa-solid {
   font-size: 1.8rem;
+}
+
+.About-title {
+  margin-top:5vh;
+  text-align: center;
+  font-size: 30px;
+}
+
+.about-intro {
+  text-align: right;
+  width: 70%;
+  text-align: justify;
+  font-size: 20px;
 }
 
   

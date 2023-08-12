@@ -334,10 +334,12 @@ figcaption{
 
 .frontend-title{
   font-size:20px;
+  margin-bottom: 10px;
 }
 
 .backend-title{
   font-size: 20px;
+  margin-bottom: 10px;
 }
 
 .frontend-section {

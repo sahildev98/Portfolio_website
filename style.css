@@ -335,6 +335,16 @@ figcaption{
   font-size: 25px;
 }
 
+.frontend-section {
+  height: 180px;
+  width: 220px;
+}
+
+.backend-section {
+  height: 180px;
+  width: 220px;
+}
+
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1600px) {

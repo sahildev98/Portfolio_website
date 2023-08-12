@@ -269,6 +269,45 @@ figcaption{
   padding-top: 15px;
 }
 
+
+@media screen and (min-width: 810px ) and (max-width: 1080px) {
+
+.logo{
+  font-size:35px;
+  height: 50px;
+  width: 110px;
+}
+
+  .hello {
+  margin-left: 3.5rem;
+  margin-right:1rem;
+  font-size: 20px;
+}
+
+.name {
+  margin-left: 3.5rem;
+  margin-right:1rem;
+  font-size: 35px;
+}
+
+.developer {
+  margin-left: 2.5rem;
+  font-size: 20px;
+}
+
+.project-btn{
+  font-size: 15px;
+  width: 150px;
+  height: 70px;
+}
+
+.project-btn .fa-solid {
+  font-size: 1.8rem;
+}
+
+  
+}
+
 @media screen and (min-width: 1024px) and (max-width: 1600px) {
   .hello {
     margin-left: 16rem;

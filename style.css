@@ -318,7 +318,23 @@ figcaption{
   font-size: 20px;
 }
 
-  
+
+.frontend-section p {
+  font-size: 20px;
+}
+
+.backend-section p {
+  font-size: 20px;
+}
+
+.frontend-title{
+  font-size:25px;
+}
+
+.backend-title{
+  font-size: 25px;
+}
+
 }
 
 @media screen and (min-width: 1024px) and (max-width: 1600px) {

@@ -275,6 +275,12 @@ figcaption{
     background: #00d4ff;
   }
 
+  .logo{
+    background:none;
+    position: none;
+    font-size:35px;
+  }
+
  li{
   display: block;
   margin-top: 90px;

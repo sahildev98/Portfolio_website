@@ -42,7 +42,7 @@ li {
   font-size: 20px;
 }
 
-header nav ul {
+.nav-links {
   display: flex;
   justify-content: flex-end;
   margin-right: 30px;
@@ -289,7 +289,7 @@ figcaption{
   margin-right:0px;
  }
 
- header nav ul{
+ .nav-links{
   justify-content: center;
   align-items: start;
  }

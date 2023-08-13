@@ -316,6 +316,11 @@ figcaption{
   display: block;
 }
 
+.about-intro{
+  font-size:15px;
+  width: 70%;
+}
+
 }
 
 

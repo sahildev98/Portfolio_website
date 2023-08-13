@@ -316,6 +316,10 @@ figcaption{
   display: block;
 }
 
+.About-title {
+ font-size:30px;
+}
+
 .about-intro{
   font-size:15px;
   width: 70%;

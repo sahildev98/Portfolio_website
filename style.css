@@ -325,6 +325,11 @@ figcaption{
   width: 70%;
 }
 
+.skill-section{
+  flex-direction: column;
+  gap:30px;
+}
+
 .skill-title h2 {
   font-size: 25px;
 }

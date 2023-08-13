@@ -328,6 +328,33 @@ figcaption{
 .skill-title h2 {
   font-size: 25px;
 }
+.frontend-section p {
+  font-size: 18px;
+}
+
+.backend-section p {
+  font-size: 18px;
+}
+
+.frontend-title{
+  font-size:20px;
+  margin-bottom: 10px;
+}
+
+.backend-title{
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+
+.frontend-section {
+  height: 180px;
+  width: 220px;
+}
+
+.backend-section {
+  height: 180px;
+  width: 220px;
+}
 
 }
 

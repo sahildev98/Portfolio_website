@@ -303,6 +303,19 @@ figcaption{
   .wrapper{
     background: #00d4ff;
   }
+
+  .project-btn{
+    font-size: 15px;
+    width: 160px;
+    height:50px;
+    border-radius: 15px;
+  }
+
+  .project-btn .fa-solid {
+  font-size: 1.5rem;
+  display: block;
+}
+
 }
 
 

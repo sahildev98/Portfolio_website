@@ -270,6 +270,19 @@ figcaption{
 }
 
 
+@media screen and (min-width: 375px) and (max-width: 600px) {
+  header{
+    background: #00d4ff;
+  }
+
+  
+
+  .wrapper{
+    background: #00d4ff;
+  }
+}
+
+
 @media screen and (min-width: 810px ) and (max-width: 1080px) {
 
 .logo{

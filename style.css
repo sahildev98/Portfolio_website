@@ -275,7 +275,24 @@ figcaption{
     background: #00d4ff;
   }
 
-  
+ li{
+  display: block;
+  margin-top: 90px;
+  margin-right: 0px;
+ }
+
+ header{
+  position: none;
+ }
+
+ ul{
+  margin-right:0px;
+ }
+
+ header nav ul{
+  justify-content: center;
+  align-items: start;
+ }
 
   .wrapper{
     background: #00d4ff;

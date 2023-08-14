@@ -371,6 +371,12 @@ figcaption{
   height:200px;
   margin: 20px;
 }
+
+.contact-section p {
+  margin-top: 40px;
+  font-size: 15px;
+}
+
 }
 
 

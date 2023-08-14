@@ -253,7 +253,8 @@ figcaption{
 }
 
 .contact-section li {
-  margin-top: 65px;
+  margin: 65px 15px;
+  list-style: none;
   font-size: 20px;
 }
 

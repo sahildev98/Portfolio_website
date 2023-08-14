@@ -242,7 +242,7 @@ figcaption{
 
 .contact-container {
   background: #00d4ff;
-  height: 20vh;
+  height: 30vh;
   margin-top: 50px;
 }
 
@@ -250,10 +250,9 @@ figcaption{
   display: flex;
   justify-content: center;
   justify-items: center;
-  gap: 50px;
 }
 
-.contact-section p {
+.contact-section li {
   margin-top: 65px;
   font-size: 20px;
 }

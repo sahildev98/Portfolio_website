@@ -281,7 +281,7 @@ figcaption{
     font-size:35px;
   }
 
- li{
+ .nav-links li{
   display: block;
   margin-top: 90px;
   margin-right: 0px;

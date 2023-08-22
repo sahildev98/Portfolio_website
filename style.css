@@ -70,6 +70,10 @@ a {
   height: 55em;
 }
 
+.hamburger{
+  display: none;
+}
+
 .hello {
   margin-left: 32rem;
   font-size: 25px;

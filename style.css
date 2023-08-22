@@ -299,6 +299,10 @@ figcaption{
   margin-right:0px;
  }
 
+ .hamburger{
+  display: block;
+ }
+
  .nav-links{
   justify-content: center;
   align-items: start;

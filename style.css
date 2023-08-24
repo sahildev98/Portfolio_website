@@ -310,6 +310,8 @@ figcaption{
   display: none;
   background-color: white;
   margin-right: 0px;
+  transform: translateX(100%);
+  transition: transform 0.5s, ease-in;
  }
 
   .wrapper{
@@ -389,6 +391,11 @@ figcaption{
   font-size: 15px;
 }
 
+}
+
+.nav-active{
+  transform: translateX(0%);
+  display: block;
 }
 
 

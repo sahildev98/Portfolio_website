@@ -306,6 +306,8 @@ figcaption{
   background-color: #00d4ff;
  }
 
+ /* TODO: Fix btn on top nav-links class */
+
  .nav-links{
   justify-content: center;
   display: none;

@@ -305,7 +305,9 @@ figcaption{
 
  .nav-links{
   justify-content: center;
-  align-items: start;
+  display:  ;
+  background-color: white;
+  margin-right: 0px;
  }
 
   .wrapper{

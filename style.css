@@ -301,11 +301,13 @@ figcaption{
 
  .hamburger{
   display: block;
+  position: absolute;
+  right: 5px;
  }
 
  .nav-links{
   justify-content: center;
-  display:  ;
+  display: ;
   background-color: white;
   margin-right: 0px;
  }

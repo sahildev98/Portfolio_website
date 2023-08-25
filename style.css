@@ -303,6 +303,7 @@ figcaption{
   display: block;
   position: absolute;
   right: 5px;
+  z-index: 999;
   background-color: #00d4ff;
  }
 

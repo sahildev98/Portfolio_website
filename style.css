@@ -277,7 +277,7 @@ figcaption{
 @media screen and (min-width: 375px) and (max-width: 600px) {
   header{
     background: #00d4ff;
-    height: 30em;
+    height: 20em;
   }
 
 
@@ -289,6 +289,7 @@ figcaption{
 
  .nav-links li{
   display: block;
+  text-align: center;
   margin-top: 90px;
   margin-right: 0px;
  }
@@ -305,7 +306,6 @@ figcaption{
  /* TODO: Fix btn on top nav-links class */
 
  .nav-links{
-  justify-content: center;
   display: none;
   background-color: white;
   margin-right: 0px;

@@ -277,11 +277,9 @@ figcaption{
 @media screen and (min-width: 375px) and (max-width: 600px) {
   header{
     background: #00d4ff;
-  }
-
-  header{
     height: 30em;
   }
+
 
   .logo{
     background:none;
@@ -295,13 +293,6 @@ figcaption{
   margin-right: 0px;
  }
 
- header{
-  position: none;
- }
-
- ul{
-  margin-right:0px;
- }
 
  .hamburger{
   display: block;

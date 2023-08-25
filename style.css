@@ -412,6 +412,7 @@ figcaption{
 .nav-active{
   transform: translateX(0%);
   display: block;
+  height: 100vh;
 }
 
 

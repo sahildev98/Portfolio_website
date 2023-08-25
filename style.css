@@ -315,7 +315,24 @@ figcaption{
 
   .wrapper{
     background: #00d4ff;
+    justify-content: start;
   }
+
+  .hello {
+  margin-left: 0rem;
+  font-size: 25px;
+}
+
+.name {
+  margin-left: 0rem;
+  font-size: 30px;
+}
+
+.developer {
+  margin-left: 0rem;
+  font-size: 20px;
+}
+
 
   .project-btn{
     font-size: 15px;

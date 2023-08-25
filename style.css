@@ -288,8 +288,8 @@ figcaption{
   }
 
  .nav-links li{
-  display: block;
-  text-align: center;
+  display: flex;
+  justify-content: center;
   margin-top: 90px;
   margin-right: 0px;
  }
@@ -415,6 +415,10 @@ figcaption{
   transform: translateX(0%);
   display: block;
   height: 100vh;
+}
+
+.hide-project-btn{
+  display: none;
 }
 
 

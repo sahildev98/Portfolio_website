@@ -319,17 +319,17 @@ figcaption{
   }
 
   .hello {
-  margin-left: 0rem;
+  margin-left: 2rem;
   font-size: 25px;
 }
 
 .name {
-  margin-left: 0rem;
+  margin-left: 3rem;
   font-size: 30px;
 }
 
 .developer {
-  margin-left: 0rem;
+  margin-left: 1rem;
   font-size: 20px;
 }
 

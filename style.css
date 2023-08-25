@@ -279,6 +279,10 @@ figcaption{
     background: #00d4ff;
   }
 
+  header{
+    height: 30em;
+  }
+
   .logo{
     background:none;
     position: none;

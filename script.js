@@ -4,6 +4,7 @@ const projectHideBtn = document.getElementById('project-btn')
 
 burger.addEventListener('click', ()=>{
     nav.classList.toggle('nav-active');
+     burger.classList.toggle('hamburger-style');
     projectHideBtn.classList.toggle('hide-project-btn');
 
 

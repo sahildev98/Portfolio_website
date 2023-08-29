@@ -78,16 +78,19 @@ a {
 .hello {
   margin-left: 32rem;
   font-size: 25px;
+  animation: fadeIn 2s;
 }
 
 .name {
   margin-left: 32rem;
   font-size: 50px;
+  animation: fadeIn 2s;
 }
 
 .developer {
   margin-left: 29rem;
   font-size: 30px;
+  animation: fadeIn 3s;
 }
 
 h1,
